@@ -10,3 +10,5 @@ Existing tags will appear when the user hovers on the tag's bounding box and can
 Tags are stored inside a folder called "tags" that is a child of the component's instance node. In order to create tags, users must have permission to create nodes under the component's node itself.
 
 The client-side tagging code is based on a modified version of Karl Mendes' jQuery Photo Tag Plugin at http://karlmendes.com/2010/07/jquery-photo-tag-plugin/
+
+Source code for the project can be found at https://github.com/ugocei/cq-taggable-image
